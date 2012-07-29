@@ -6,3 +6,7 @@
 .world {
 	background: yellow;
 }
+
+.proper p {
+	font-weight: bold;
+}
