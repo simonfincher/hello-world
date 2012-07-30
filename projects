@@ -17,8 +17,7 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
-FILE_NAME_0=111;CSS;0;16;1;1;0;/home/simon/Documents/github/hello-world/hello-world/css/styles.css;0;4
+current_page=-1
 
 [VTE]
 last_dir=/home/simon
