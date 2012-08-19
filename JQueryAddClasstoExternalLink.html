@@ -8,18 +8,12 @@
 
 <script>
 $(function() {
-		$('#panel').html('<h1 class="hello">Javascript was here</h1>');
-		$('h1').hide().fadeIn(3000);
-//		alert($('#panel').html());
+		$('a[href^="http://"]').addClass('externalLink');
 }); // end ready
 </script>
 </head>
 <body>
 <p>An HTML page with latest JQuery library.</p>
-<div id="panel">
-<p>This is a panel.</p>
-</div>
-<p>This is the rest of the page.</p>
-<h1>This is another H1</h1>
+<a href="http://www.google.co.uk">This is a link.</a>
 </body>
 </html>
