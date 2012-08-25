@@ -17,7 +17,8 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=-1
+current_page=0
+FILE_NAME_0=265;HTML;0;16;1;1;0;/home/simon/Documents/github/hello-world/hello-world/JQueryAddClasstoExternalLink.html;0;4
 
 [VTE]
 last_dir=/home/simon
