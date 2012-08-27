@@ -10,3 +10,7 @@
 .proper p {
 	font-weight: bold;
 }
+
+#panel {
+	background-color: #cc0000;
+}
