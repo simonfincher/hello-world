@@ -1,0 +1,49 @@
+<?xml version="1.0" ?> 
+
+<opendays>
+	<institution>John Smith University</institution>
+	
+	<event>
+	<type>Open Day</type>
+	<subject>All</subject>
+	<startdate>02/04/2014</startdate>
+	<phone>01242 555666</phone>
+	<email>john@university.ac.uk</email>
+	<url>www.university.ac.uk/opendays</url>
+	<venuetown>Cheltenham</venuetown>
+	</event>
+
+	<event>
+	<type>Taster Course</type>
+	<subject>Philosophy</subject>
+	<startdate>12/07/2014</startdate>
+	<phone>01242 555666</phone>
+	<email>john@university.ac.uk</email>
+	<url>www.university.ac.uk/opendays</url>
+	<venuetown>Gloucester</venuetown>
+	</event>
+</opendays>
+
+<opendays>
+	<institution>John Smith University</institution>
+	
+	<event>
+	<type>Open Day</type>
+	<subject>All</subject>
+	<startdate>02/04/2014</startdate>
+	<phone>01242 555666</phone>
+	<email>john@university.ac.uk</email>
+	<url>www.university.ac.uk/opendays</url>
+	<venuetown>Cheltenham</venuetown>
+	</event>
+
+	<event>
+	<type>Taster Course</type>
+	<subject>Mathemtatics</subject>
+	<startdate>08/06/2014</startdate>
+	<phone>01242 555666</phone>
+	<email>john@university.ac.uk</email>
+	<url>www.university.ac.uk/opendays</url>
+	<venuetown>Cheltenham</venuetown>
+	</event>
+</opendays>
