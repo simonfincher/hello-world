@@ -4,8 +4,8 @@
 	<institution>John Smith University</institution>
 	
 	<event>
-	<type>Open Day</type>
-	<subject>All</subject>
+	<type>openday</type>
+	<subject></subject>
 	<startdate>02/04/2014</startdate>
 	<phone>01242 555666</phone>
 	<email>john@university.ac.uk</email>
@@ -14,7 +14,7 @@
 	</event>
 
 	<event>
-	<type>Taster Course</type>
+	<type>tastercourse</type>
 	<subject>Philosophy</subject>
 	<startdate>12/07/2014</startdate>
 	<phone>01242 555666</phone>
@@ -28,8 +28,8 @@
 	<institution>John Smith University</institution>
 	
 	<event>
-	<type>Open Day</type>
-	<subject>All</subject>
+	<type>openday</type>
+	<subject></subject>
 	<startdate>02/04/2014</startdate>
 	<phone>01242 555666</phone>
 	<email>john@university.ac.uk</email>
@@ -38,8 +38,8 @@
 	</event>
 
 	<event>
-	<type>Taster Course</type>
-	<subject>Mathemtatics</subject>
+	<type>tastercourse</type>
+	<subject>Mathematics</subject>
 	<startdate>08/06/2014</startdate>
 	<phone>01242 555666</phone>
 	<email>john@university.ac.uk</email>

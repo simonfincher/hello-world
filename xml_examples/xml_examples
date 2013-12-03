@@ -9,6 +9,7 @@ indent_mode=2
 [project]
 name=XML examples
 base_path=/home/simon/Documents/hello-world/xml_examples
+description=
 
 [long line marker]
 long_line_behaviour=1
@@ -16,4 +17,4 @@ long_line_column=72
 
 [files]
 current_page=0
-FILE_NAME_0=712;XML;0;16;1;1;0;/home/simon/Documents/hello-world/xml_examples/opendays.xml;0;4
+FILE_NAME_0=932;XML;0;16;1;1;0;/home/simon/Documents/hello-world/xml_examples/opendays.xml;0;4
