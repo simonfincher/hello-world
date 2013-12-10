@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<resultset statement="select * from limbs where legs=0
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+	<field name="thing">squid</field>
+	<field name="legs">0</field>
+	<field name="arms">10</field>
+  </row>
+
+  <row>
+	<field name="thing">octopus</field>
+	<field name="legs">0</field>
+	<field name="arms">8</field>
+  </row>
+
+  <row>
+	<field name="thing">fish</field>
+	<field name="legs">0</field>
+	<field name="arms">0</field>
+  </row>
+
+  <row>
+	<field name="thing">phonograph</field>
+	<field name="legs">0</field>
+	<field name="arms">1</field>
+  </row>
+</resultset>

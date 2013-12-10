@@ -17,4 +17,9 @@ long_line_column=72
 
 [files]
 current_page=0
-FILE_NAME_0=932;XML;0;16;1;1;0;/home/simon/Documents/hello-world/xml_examples/opendays.xml;0;4
+
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=false
