@@ -16,7 +16,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
+current_page=1
+FILE_NAME_0=252;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fsimon%2FDocuments%2Fhello-world%2Fmysql_examples%2Flimbs.html;0;4
+FILE_NAME_1=606;XML;0;EUTF-8;1;1;0;%2Fhome%2Fsimon%2FDocuments%2Fhello-world%2Fmysql_examples%2Flimbs.xml;0;4
 
 [file_prefs]
 final_new_line=true
